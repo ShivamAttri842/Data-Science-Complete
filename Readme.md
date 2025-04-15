@@ -9,14 +9,14 @@ This repository documents my **personal learning journey** in Data Science, Mach
 ## **📚 Roadmap & Curriculum**  
 
 ### **🔹 Python Fundamentals**  
-- Core & Advanced Python (OOP, Data Structures, Generators, Decorators)  
-- Numpy, Pandas, Matplotlib, Seaborn  
-- SQLite3 Integration, Web Scraping, Flask Basics  
+✔ Core & Advanced Python (OOP, Data Structures, Generators, Decorators)  
+✔ Numpy, Pandas, Matplotlib, Seaborn  
+✔ SQLite3 Integration, Web Scraping, Flask Basics  
 
 ### **🔹 Mathematics for Data Science**  
-- Statistics & Probability (Z-test, T-test, ANOVA, Distributions)  
-- Linear Algebra (Vectors, Matrices, Eigen Decomposition)  
-- Calculus for Optimization (Gradients, Derivatives)  
+✔ Statistics & Probability (Z-test, T-test, ANOVA, Distributions)  
+✔ Linear Algebra (Vectors, Matrices, Eigen Decomposition)  
+✔ Calculus for Optimization (Gradients, Derivatives)  
 
 ### **🔹 Machine Learning**  
 **Supervised Learning:**  
